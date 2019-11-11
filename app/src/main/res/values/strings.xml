@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Menú Digital</string>
+    <string name="title_activity_main">Principal</string>
+    <string name="instructions">Bienvenido a la aplicación Menú Digital. Por favor, llene los campos siguientes para poder mostrar los artículos del menú.</string>
+    <string name="sex_label">Seleccione su sexo</string>
+    <string name="age_label">Seleccione su edad</string>
+    <string name="act_label">Seleccione su grado de actividad</string>
+    <string name="btn_default" />
+    <string name="btn_next">Siguiente</string>
+    <string name="missing_fields">Revise que todos los campos hayan sido completados.</string>
+    <string name="title_activity_choices">Menú Digital</string>
+    <string name="info">Este es el carrito de las opciones seleccionadas. Con el botón \"+\" aparece una lista de ítems disponibles en el menú de la escuela para agregar al carrito. En la parte inferior aparecerán los valores nutricionales de su carrito.</string>
+    <string name="default_food">Comida</string>
+    <string name="btn_cal">Calcular</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_add">Agregar</string>
+</resources>
